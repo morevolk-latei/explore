@@ -1,1 +1,1 @@
-Welcome to explore
+Welcome to explore | believe in yourself
