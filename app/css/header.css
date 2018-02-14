@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  height: 100%;
+}
+body{
+  background: #e7e7e7;
+}
+header{
+  background: #ffffff;
+  height: 50px;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.1);
+}
+header img{
+  width: 130px;
+  outline: 1px solid red;
+  position: relative;
+  left: 1%;
+}
